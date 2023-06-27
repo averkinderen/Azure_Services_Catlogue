@@ -9,6 +9,13 @@
             }
         ],
     "Azure AI Content Safety PREVIEW",
+    [
+        {
+            "Description":"Use AI to monitor text and image content for safety.",
+            "Link":"https://azure.microsoft.com/en-us/products/cognitive-services/ai-content-safety",
+            "Icon": "https://store-images.s-microsoft.com/image/apps.47885.fc8f64dd-eb7e-47b5-baeb-868537b567c4.d04a3fae-0848-41b9-8eca-32c5c20f7396.a6fb71c4-40f4-4a43-9caa-2f06bd174cbc"
+        }
+    ],
     "Azure Applied AI Services",
     "Azure Bot Services",
     "Azure Cognitive Search",
