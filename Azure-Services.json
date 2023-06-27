@@ -68,12 +68,10 @@
     "R Server for HDInsight"
   ],
   "Compute": [
-    "App Service",
     "Azure Container Apps",
     "Azure Container Instances",
     "Azure CycleCloud",
     "Azure Dedicated Host",
-    "Azure Functions",
     "Azure Kubernetes Service (AKS)",
     "Azure Quantum",
     "Azure Service Fabric",
@@ -97,7 +95,6 @@
     "Azure Container Instances",
     "Azure Container Registry",
     "Azure Container Storage PREVIEW",
-    "Azure Functions",
     "Azure Kubernetes Fleet Manager PREVIEW",
     "Azure Kubernetes Service (AKS)",
     "Azure Red Hat OpenShift",
@@ -189,7 +186,6 @@
     "API Management",
     "Azure Cosmos DB",
     "Azure Digital Twins",
-    "Azure Functions",
     "Azure IoT Central",
     "Azure IoT Edge",
     "Azure IoT Hub",
@@ -261,7 +257,6 @@
     "API Management",
     "App Center",
     "App Configuration",
-    "App Service",
     "Azure Cognitive Search",
     "Azure Cognitive Services",
     "Azure Communication Services",
@@ -360,6 +355,7 @@
     "Content Delivery Network",
     "Notification Hubs",
     "Static Web Apps",
-    "Web App for Containers"
+    "Web App for Containers",
+    "Azure Functions",
   ]
 }
