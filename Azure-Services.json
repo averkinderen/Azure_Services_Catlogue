@@ -1,6 +1,13 @@
 {
   "AI + machine learning": [
-    "Anomaly Detector",
+    "Anomaly Detector"
+        [
+            {
+                "description":"Foresee problems before they occur with an Azure AI anomaly detection service.",
+                "Link":"https://azure.microsoft.com/en-au/products/cognitive-services/anomaly-detector/"
+
+            }
+        ],
     "Azure AI Content Safety PREVIEW",
     "Azure Applied AI Services",
     "Azure Bot Services",
